@@ -66,7 +66,7 @@
 //}
 
 import java.util.Scanner;
-public class Main{
+public class day1{
     public static void main(String[] args){
         Scanner sc= new Scanner(System.in);
         System.out.println("range of number: ");
