@@ -5,7 +5,7 @@ public class day3 {
         Scanner sc = new Scanner(System.in);
         int num = sc.nextInt();
         for(int i=1; i<=num; i++){
-            System.out.println(i);
+            System.out.print(i+" ");
         }
     }
 }
